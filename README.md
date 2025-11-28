@@ -34,4 +34,4 @@
 - QGIS - визуализация на данни (https://qgis.org/)
 - Corine Land Cover - данни за земно покритие (https://land.copernicus.eu/en/products/corine-land-cover)
 ### Резултати
-[Финална презентация](Цветове - презентация.pptx)
+Финална презентация (Цветове - презентация.pptx)
